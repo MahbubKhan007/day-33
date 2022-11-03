@@ -1,0 +1,50 @@
+
+@media (max-width:576px) {
+  .head-menu ul li {
+    display: inline-block;
+    padding: 3px 15px;
+    position: relative;
+  }
+  .head-menu ul li a {
+    font-size: 14px;
+  }
+  .head-menu ul li {
+    display: block;
+    padding: 2px 4px;
+    position: relative;
+  }
+  .head-menu ul li ul {
+    top: 100%;
+    left: 139px;
+  } 
+  .head-menu ul li:hover ul{
+    visibility: hidden;
+    opacity: 1;
+   }
+   .benner-wrap {
+    height: 71vh;
+  }
+  .benner-caption h3 {
+    font-size: 34px;
+  }
+  .moneypic img{
+    width: 100%;
+  }
+  .inner-money1 img{
+    width: 100%;
+  }
+  .why-us-inner img{
+    width: 100%;
+  }
+  .call h3 {
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: 400;
+  }
+  .value-right img{
+    width: 100%;
+  }
+  .success-pic img{
+    width: 100%;
+  }
+}
